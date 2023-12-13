@@ -1,0 +1,9 @@
+
+print("Első feltötlés után")
+
+
+
+
+
+
+
